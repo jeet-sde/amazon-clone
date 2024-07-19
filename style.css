@@ -1,0 +1,42 @@
+h3 {
+	color : yellow ;
+}
+p {
+	color : purple;
+}
+button {
+	color : pink;
+}
+body {
+	background-color: yellow;
+}
+button {
+	background-color: #03f4fc;
+}
+.myclass
+{
+	color : blue;
+	
+}
+.p1 
+{
+	text-align : right;
+	text-decoration: overline;
+}
+.p2
+{
+	text-align : centre;
+	text-decoration : underline;
+}
+.font{
+	font-family: arial;
+}
+#one{
+	font-size: 20px;
+}
+#two {
+	font-size: 30px;
+}
+#three {
+	font-size: 40px;
+}
